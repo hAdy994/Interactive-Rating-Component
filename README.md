@@ -1,18 +1,15 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. Feel free to use this repo for your personal projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -27,9 +24,12 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+![Screenshot (32)](https://user-images.githubusercontent.com/74817838/227125985-b2133dd1-cfe7-437b-a563-2a916a4e40ab.png)
+
+
+![Screenshot (33)](https://user-images.githubusercontent.com/74817838/227126007-4cfad635-afa9-46f5-8d8e-3b3af27e0a64.png)
 
 
 ### Links
@@ -37,7 +37,7 @@ Users should be able to:
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+## My process!
 
 ### Built with
 
@@ -47,7 +47,7 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [React](https://react.dev/) - JS library
-- [Next.js](https://vitejs.dev/) - React framework
+- [Vite](https://vitejs.dev/) - React framework
 
 
 ## Author
