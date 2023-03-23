@@ -5,9 +5,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
- - [Screenshots](#screenshots)
- - [Links](#links)
+- [Screenshots](#screenshots)
 - [Built with](#built-with)
+- [Links](#links)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -20,18 +20,12 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshots
+## Screenshots
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/74817838/227125985-b2133dd1-cfe7-437b-a563-2a916a4e40ab.png)
 
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/74817838/227126007-4cfad635-afa9-46f5-8d8e-3b3af27e0a64.png)
-
-
-## Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)
-- [Live Site URL](https://hady994.github.io/Interactive-Rating-Component/)
 
 
 ## Built with
@@ -43,6 +37,12 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - Chrome and Firefox Dev Tools
+
+
+## Links
+
+- [Solution URL](https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)
+- [Live Site URL](https://hady994.github.io/Interactive-Rating-Component/)
 
 
 ## Author
