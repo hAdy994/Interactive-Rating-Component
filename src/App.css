@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Overpass-700';
+  src: url('./Overpass-VariableFont_wght.ttf'),
+    format('trueType');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Overpass-400';
+  src: url('./Overpass-VariableFont_wght.ttf'),
+    format('trueType');
+  font-weight: 400;
+}
+/* @font-face {
+  font-family: 'Inter';
+  src: url('../../public/Fonts/Inter/Inter-var.ttf'), format('trueType');
+  font-weight: 600;
+} */
+#root {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+.modal {
+  background: linear-gradient(0deg, rgb(23 30 40) 0%, rgb(36 42 52) 100%)
+}
+.button {
+  transition-duration: 1.4s;
+}
+
+.background{
+  background-color: #333e4a;
+  color: #a2a9b5;
+}
+p {
+  color: #b3bac6;
+}
+h1 {
+  font-family: Overpass-700;
+}
+p, div {
+  font-family: Overpass-400;
+}
