@@ -5,8 +5,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshots](#screenshots)
-  - [Links](#links)
+ - [Screenshots](#screenshots)
+ - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -30,8 +30,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [(https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)]
-- Live Site URL: [[Add live site URL here](https://hady994.github.io/Interactive-Rating-Component/)]
+- [Solution URL](https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)
+- [Live Site URL](https://hady994.github.io/Interactive-Rating-Component/)
 
 
 ## Built with
@@ -53,6 +53,6 @@ Users should be able to:
 ## Acknowledgments
 
 ** As always, thanks to ChatGPT, who has been enabling us developers to create amazing UIs since 2023.
-And also, thanks to web dev cody on youtube https://www.youtube.com/watch?v=mp1-HUjZE0o&ab_channel=WebDevCody for inspiring me to take this challenge.
+And also, thanks to [Web Dev Cody](https://www.youtube.com/@WebDevCody) for [inspiring me](https://www.youtube.com/watch?v=mp1-HUjZE0o&ab_channel=WebDevCody) to take this challenge.
 
 
