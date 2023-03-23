@@ -52,7 +52,7 @@ Users should be able to:
 
 ## Acknowledgments
 
-**As always, thanks to ChatGPT, who has been enabling us developers to create amazing UIs since 2023.
-And also, thanks to [Web Dev Cody](https://www.youtube.com/@WebDevCody) for [inspiring me](https://www.youtube.com/watch?v=mp1-HUjZE0o&ab_channel=WebDevCody) to take this challenge.**
+As always, thanks to **ChatGPT**, who has been enabling us developers to create amazing UIs since 2023.
+And also, thanks to **[Web Dev Cody](https://www.youtube.com/@WebDevCody)** for [inspiring me](https://www.youtube.com/watch?v=mp1-HUjZE0o&ab_channel=WebDevCody) to take this challenge.
 
 
