@@ -5,17 +5,13 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-
-### The challenge
 
 Users should be able to:
 
@@ -32,22 +28,21 @@ Users should be able to:
 ![Screenshot (33)](https://user-images.githubusercontent.com/74817838/227126007-4cfad635-afa9-46f5-8d8e-3b3af27e0a64.png)
 
 
-### Links
+## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)
 - Live Site URL: [Add live site URL here](https://hady994.github.io/Interactive-Rating-Component/)
 
-## My process!
 
-### Built with
+## Built with
 
-- Create Vite App Using React And Typescript
-- Tailwind
-- Chrome and Firefox Dev Tools
-- Flexbox
-- Mobile-first workflow
 - [React](https://react.dev/) - JS library
 - [Vite](https://vitejs.dev/) - React framework
+- Typescript
+- Tailwind
+- Flexbox
+- Mobile-first workflow
+- Chrome and Firefox Dev Tools
 
 
 ## Author
