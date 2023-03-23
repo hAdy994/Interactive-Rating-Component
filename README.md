@@ -30,8 +30,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)
-- Live Site URL: [Add live site URL here](https://hady994.github.io/Interactive-Rating-Component/)
+- Solution URL: [(https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)]
+- Live Site URL: [[Add live site URL here](https://hady994.github.io/Interactive-Rating-Component/)]
 
 
 ## Built with
