@@ -18,7 +18,7 @@ function App() {
       {isSubmitted
         ? <div className='flex flex-col items-center max-h-fit max-w-sm modal absolute p-8 rounded-3xl'>
             <div className=' rounded-full p-4 flex max-w-max mb-3.5'>
-              <img src='/illustration-thank-you.svg' width={160} height={160} />
+              <img src='/Interactive-Rating-Component/illustration-thank-you.svg' width={160} height={160} />
             </div>
             <div className='bg-gray-800 text-amber-600 p-1 px-4 mb-6 rounded-3xl text-base'>
               You selected {selectedRating} out of 5
@@ -30,8 +30,8 @@ function App() {
             </div>
           </div>
         : <form onSubmit={handleSubmit} className='flex flex-col max-h-fit max-w-sm modal absolute p-8 rounded-3xl'>
-            <div className='bg-gray-700 rounded-full p-4 flex max-w-max mb-2'>
-              <img src='/icon-star.svg' width={18} height={18} />
+            <div className='bg-gray-700 rounded-full p-4 flex max-w-max mb-4'>
+              <img src='/Interactive-Rating-Component/icon-star.svg' width={18} height={18} />
             </div>
             <div>
               <div className='mb-6'>
