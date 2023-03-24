@@ -33,17 +33,31 @@ body {
 .button {
   transition-duration: 1.4s;
 }
-
-.background{
-  background-color: #333e4a;
+.background,.star{
+  background-color: #333e4a!important;
   color: #a2a9b5;
+}
+.background:hover {
+  background-color: hsl(216, 12%, 54%)!important
+/* hover:bg-slate-500 hover:text-white  */
+
+}
+.background:focus {
+  background-color: hsl(25, 97%, 53%)!important;
+/* focus:bg-amber-600 focus:text-white */
+
+}
+form {
+  max-width: 400px;
 }
 p {
   color: #b3bac6;
 }
 h1 {
-  font-family: Overpass-700;
+  font-family: Overpass-700, sans-serif;
+  font-size: 28px!important;
 }
 p, div {
-  font-family: Overpass-400;
+  font-family: Overpass-400, sans-serif;
+  font-size: 15px!important;
 }
