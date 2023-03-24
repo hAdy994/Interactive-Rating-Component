@@ -18,14 +18,14 @@ function App() {
   return (
     <div className='flex justify-center h-screen items-center'>
       {isSubmitted
-        ? <div className='flex flex-col items-center max-h-fit max-w-sm modal absolute p-8 rounded-3xl mx-4'>
+        ? <div className='thankyou flex flex-col items-center max-h-fit modal absolute p-8 rounded-3xl mx-4'>
             <div className=' rounded-full p-4 flex max-w-max mb-3.5'>
               <img src={thanks} width={160} height={160} />
             </div>
-            <div className='bg-gray-800 text-amber-600 p-1 px-4 mb-6 rounded-3xl text-base'>
+            <div className='selected text-amber-600 p-1 px-4 mb-6 rounded-3xl text-base'>
               You selected {selectedRating} out of 5
             </div>
-            <div className='flex flex-col items-center'>
+            <div className='flex flex-col items-center mb-4'>
               <h1 className='text-2xl font-medium my-3'>Thank you!</h1>
               <p className='text-sm leading-relaxed text-center'>We appreciate you taking the time to give a rating. If you ever need more support, don't hesitate to get in touch!</p>
             </div>
@@ -47,7 +47,7 @@ function App() {
             ))}
             </div>
           <div className='flex justify-center items-center'>
-            <button disabled={selectedRating === undefined} className='flex grow items-center h-12 justify-center rounded-full text-xl bg-amber-600 hover:bg-white hover:text-amber-600 transition-colors duration-300'>Submit</button>
+            <button disabled={selectedRating === undefined} className='flex grow items-center h-12 justify-center rounded-full text-sm tracking-widest bg-amber-600 hover:bg-white hover:text-amber-600 transition-colors duration-300 submit-button'>SUBMIT</button>
             </div>
         </form>}
     </div>

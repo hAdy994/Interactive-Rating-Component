@@ -1,14 +1,21 @@
-@font-face {
-  font-family: 'Overpass-700';
-  src: url('./Overpass-VariableFont_wght.ttf'),
-    format('trueType');
-  font-weight: 700;
-}
+
 @font-face {
   font-family: 'Overpass-400';
   src: url('./Overpass-VariableFont_wght.ttf'),
     format('trueType');
   font-weight: 400;
+}
+@font-face {
+  font-family: 'Overpass-500';
+  src: url('./Overpass-VariableFont_wght.ttf'),
+    format('trueType');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Overpass-700';
+  src: url('./Overpass-VariableFont_wght.ttf'),
+    format('trueType');
+  font-weight: 700;
 }
 /* @font-face {
   font-family: 'Inter';
@@ -36,6 +43,7 @@ body {
 .background,.star{
   background-color: hsl(213, 19%, 18%)!important;
   color: #a2a9b5;
+  font-size: 16px!important;
 }
 .background:hover {
   background-color: hsl(216, 12%, 54%)!important
@@ -45,7 +53,7 @@ body {
   background-color: hsl(25, 97%, 53%)!important;
 
 }
-form {
+form,.thankyou {
   max-width: 400px;
 }
 p {
@@ -58,4 +66,11 @@ h1 {
 p, div {
   font-family: Overpass-400, sans-serif;
   font-size: 15px!important;
+}
+.selected {
+  background-color: hsl(213, 19%, 18%)!important;
+}
+.submit-button {
+  font-size: 15px!important;
+  font-family:Overpass-500, sans-serif; 
 }
