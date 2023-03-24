@@ -22,10 +22,11 @@ Users should be able to:
 
 ## Screenshots
 
-![Screenshot (32)](https://user-images.githubusercontent.com/74817838/227125985-b2133dd1-cfe7-437b-a563-2a916a4e40ab.png)
+
+![Screenshot (34)](https://user-images.githubusercontent.com/74817838/227648460-88bf79f9-9089-43fe-824c-3c215b399de9.png)
 
 
-![Screenshot (33)](https://user-images.githubusercontent.com/74817838/227126007-4cfad635-afa9-46f5-8d8e-3b3af27e0a64.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/74817838/227648466-f2c09655-e75d-4c31-ac68-38bb7509a6b2.png)
 
 
 ## Built with
@@ -53,6 +54,6 @@ Users should be able to:
 ## Acknowledgments
 
 As always, thanks to **ChatGPT**, who has been enabling us developers to create amazing UIs since 2023.
-And also, thanks to **[Web Dev Cody](https://www.youtube.com/@WebDevCody)** for [inspiring me](https://www.youtube.com/watch?v=mp1-HUjZE0o&ab_channel=WebDevCody) to take this challenge.
+And also, thanks to [Web Dev Cody](https://www.youtube.com/@WebDevCody) for [inspiring me](https://www.youtube.com/watch?v=mp1-HUjZE0o&ab_channel=WebDevCody) to take this challenge.
 
 
