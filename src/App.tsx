@@ -20,7 +20,7 @@ function App() {
       {isSubmitted
         ? <div className='thankyou flex flex-col items-center max-h-fit modal absolute p-8 rounded-3xl mx-4'>
             <div className=' rounded-full p-4 flex max-w-max mb-3.5'>
-              <img src={thanks} width={160} height={160} />
+              <img src={thanks} width={160} height={160} alt='Thank you!'/>
             </div>
             <div className='selected text-amber-600 p-1 px-4 mb-6 rounded-3xl text-base'>
               You selected {selectedRating} out of 5
@@ -32,7 +32,7 @@ function App() {
           </div>
         : <form onSubmit={handleSubmit} className='flex flex-col max-h-fit modal absolute p-8 rounded-3xl mx-4'>
             <div className='rounded-full p-4 flex max-w-max mb-7 background'>
-              <img src={star} width={16} height={16} />
+              <img src={star} width={16} height={16} alt='star'/>
             </div>
             <div>
               <div className='mb-8'>
