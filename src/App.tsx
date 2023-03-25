@@ -43,7 +43,7 @@ function App() {
           </div>
           <div className='flex justify-between mb-8'>
             {[1, 2, 3, 4, 5].map((rating) => (
-              <button onClick={() => handleSelectedRating(rating)} type='button' className='h-12 w-12 rounded-full hover:text-white focus:text-white transition-colors duration-500 background'>{rating}</button>
+              <button onClick={() => handleSelectedRating(rating)} type='button' className='rounded-full hover:text-white focus:text-white transition-colors duration-500 background'>{rating}</button>
             ))}
             </div>
           <div className='flex justify-center items-center'>

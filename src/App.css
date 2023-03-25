@@ -35,10 +35,12 @@ body {
   min-height: 100vh;
 }
 .modal {
+  max-width: 400px;
   background: linear-gradient(0deg, rgb(23 30 40) 0%, rgb(36 42 52) 100%)
 }
-.button {
-  transition-duration: 1.4s;
+.background {
+  height: 50px!important;
+  width: 50px!important;
 }
 .background,.star{
   background-color: hsl(213, 19%, 18%)!important;
@@ -52,9 +54,6 @@ body {
 .background:focus {
   background-color: hsl(25, 97%, 53%)!important;
 
-}
-form,.thankyou {
-  max-width: 400px;
 }
 p {
   color: #b3bac6;
