@@ -43,7 +43,7 @@ Users should be able to:
 ## Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/vite-with-react-typescript-and-tailwind-Lkw2eGUxSg)
-- [Live Site URL](https://hady994.github.io/Interactive-Rating-Component/)
+- [Live Site URL](https://hadyawayda.github.io/Interactive-Rating-Component/)
 
 
 ## Author
